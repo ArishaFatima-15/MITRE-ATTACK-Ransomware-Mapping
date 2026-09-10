@@ -33,4 +33,4 @@ The attack began via a malicious file delivered through email or web link. The f
 ## Files:
 
 * [Arisha_Fatima_MITRE_ATTCK_Mapping_Exercise.pdf](Arisha_Fatima_MITRE_ATTCK_Mapping_Exercise.pdf) — Complete Analysis Report & MITRE ATT&CK Documentation
-* [microsoft_defender_ransomware_incident_mapping.pdf](microsoft_defender_ransomware_incident_mapping.pdf) — Complete Analysis Report & MITRE ATT&CK Documentation
+* [mitre_attack_layer.json](mitre_attack_layer.json) — MITRE ATT&CK Navigator Export Layer (Import into [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) to view heatmap)
