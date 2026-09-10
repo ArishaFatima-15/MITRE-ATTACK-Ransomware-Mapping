@@ -26,11 +26,11 @@ This project presents a structured Security Operations Center (SOC) threat analy
 ---
 
 ## Incident Summary:
-The attack began via a malicious file delivered through email or web link[cite: 1]. The file leveraged `mshta.exe` to connect to an attacker-controlled infrastructure and retrieve a second-stage payload[cite: 1]. Persistence was attempted via RunMRU registry modifications[cite: 1]. Microsoft Defender automatically contained the threat within 128 seconds, preventing lateral movement or organizational damage.
+The attack began via a malicious file delivered through email or web link. The file leveraged `mshta.exe` to connect to an attacker-controlled infrastructure and retrieve a second-stage payload. Persistence was attempted via RunMRU registry modifications. Microsoft Defender automatically contained the threat within 128 seconds, preventing lateral movement or organizational damage.
 
 ---
 
 ## Files:
 
 * [Arisha_Fatima_MITRE_ATTCK_Mapping_Exercise.pdf](Arisha_Fatima_MITRE_ATTCK_Mapping_Exercise.pdf) — Complete Analysis Report & MITRE ATT&CK Documentation
-* * [microsoft_defender_ransomware_incident_mapping.pdf](microsoft_defender_ransomware_incident_mapping.pdf) — Complete Analysis Report & MITRE ATT&CK Documentation
+* [microsoft_defender_ransomware_incident_mapping.pdf](microsoft_defender_ransomware_incident_mapping.pdf) — Complete Analysis Report & MITRE ATT&CK Documentation
